@@ -21,22 +21,7 @@ The main topics that I am passionate about in software are data analytics and cl
 <br/>  
 
 
-## Intro
-<table><tr><td valign="top" width="50%">
-  
-- 👓 I’m currently student in Beykent University  
-  
 
-- 🌱 I’m currently learning Data analysis, shell  
-  
-
-- 👯 I’m looking to collaborate on  data analysis/science projects  
-  
-
-- ⚡ Fun fact: I love animals  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -60,7 +45,6 @@ The main topics that I am passionate about in software are data analytics and cl
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="35" />  
 </div>  
 
-<br/>  
 
 
 
