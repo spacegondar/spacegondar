@@ -46,4 +46,4 @@ The main topics that I am passionate about in software are data analytics and cl
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="right"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
