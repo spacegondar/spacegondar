@@ -63,14 +63,6 @@ The main topics that I am passionate about in software are data analytics and cl
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
 
 
 ----
