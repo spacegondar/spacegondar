@@ -19,7 +19,7 @@
 
 👽   The main topics that I am passionate about in software are data analytics and cloud technologies.  
 
-🎓   Graduate Menagement İnformation Systems at Beykent University.  
+🎓   Gonna graduate in Jun from Menagement İnformation Systems at Beykent University.  
 
 👜   Currently I am a Software Developer Student at Kofana Bootcamp.  
 
